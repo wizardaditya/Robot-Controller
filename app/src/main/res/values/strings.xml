@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">A5X Robo Soccer</string>
+    <string name="accessibility_speed_slider">Robot speed controller slider</string>
+    <string name="accessibility_joystick">Drive control joystick</string>
+    <string name="accessibility_emergency_stop">Emergency stop. Halts robot immediately.</string>
+    <string name="accessibility_kick_button">Kick ball button</string>
+    <string name="accessibility_connect_status">Bluetooth low energy status indicator</string>
+    <string name="accessibility_toggle_theme">Toggle dark and light color scheme</string>
+    <string name="accessibility_battery_status">Robot battery charge level</string>
+    <string name="accessibility_telemetry_dashboard">Motor power and speed real time telemetry</string>
+</resources>

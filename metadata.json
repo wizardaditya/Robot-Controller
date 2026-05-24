@@ -1,0 +1,6 @@
+{
+  "name": "A5X Robo Soccer",
+  "description": "ESP32 Robo Soccer Bot Controller with low-latency BLE transmission, dual Joystick & button controls, real-time telemetry dashboard, and Material You branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
